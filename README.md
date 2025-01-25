@@ -4,7 +4,7 @@
 
 I'm a passionate software developer with a keen interest in web development, machine learning, and open-source projects. I love exploring new technologies and constantly improving my skills.
 
-- 🔭 I’m currently working on 
+<!--- 🔭 I’m currently working on -->
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with Java Based Issues.
@@ -19,13 +19,13 @@ I'm a passionate software developer with a keen interest in web development, mac
 - **Tools:** Git, Docker, Kubernetes
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
-## Projects
+<!--## Projects
 
 ### [Project 1 Name]
 Description of Project 1. Explain what it does, the technologies used, and your role in the project.
 
 ### [Project 2 Name]
-Description of Project 2. Explain what it does, the technologies used, and your role in the project.
+Description of Project 2. Explain what it does, the technologies used, and your role in the project.-->
 
 ## Connect with Me
 
