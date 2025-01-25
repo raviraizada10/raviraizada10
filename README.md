@@ -4,18 +4,18 @@
 
 I'm a passionate software developer with a keen interest in web development, machine learning, and open-source projects. I love exploring new technologies and constantly improving my skills.
 
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Technology/Skill]
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on open-source projects
-- 🤔 I’m looking for help with [Specific Issue or Project]
-- 💬 Ask me about web development, Python, and machine learning
-- 📫 How to reach me: [Your Email]
+- 🤔 I’m looking for help with Java Based Issues.
+- 💬 Ask me about web development, Java.
+- 📫 How to reach me: [raviraizadagm@gmail.com]
 - ⚡ Fun fact: [Something Interesting About You]
 
 ## Skills
 
-- **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** React, Node.js, Django, Flask
+- **Languages:** Java, Python
+- **Frameworks:** Spring, SpringBoot
 - **Tools:** Git, Docker, Kubernetes
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
@@ -31,7 +31,7 @@ Description of Project 2. Explain what it does, the technologies used, and your 
 
 - [LinkedIn](https://www.linkedin.com/in/raviraizada10)
 - [Twitter](https://twitter.com/raviraizada10)
-- [Personal Website/Blog](https://raviraizada.com)
+- [Coding Constellation](https://raviraizada.substack.com/)
 
 ## GitHub Stats
 
@@ -42,6 +42,7 @@ Description of Project 2. Explain what it does, the technologies used, and your 
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+https://raviraizada.substack.com/p/an-introduction-to-microservices
 <!-- BLOG-POST-LIST:END -->
 
 ---
